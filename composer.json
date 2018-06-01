@@ -1,0 +1,9 @@
+{
+  "name": "tests/project",
+  "license": "proprietary",
+  "type": "project",
+  "require": {
+    "phpunit/phpunit": "^6.5",
+    "guzzlehttp/guzzle": "~6.0"
+  }
+}

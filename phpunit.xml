@@ -1,0 +1,7 @@
+<phpunit bootstrap="vendor/autoload.php">
+    <testsuites>
+        <testsuite name="end2end">
+            <directory>end2end</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
