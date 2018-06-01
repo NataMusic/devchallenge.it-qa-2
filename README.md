@@ -1,3 +1,7 @@
+This is end-to-end tests for OpenWeatherMap project to check basic user scenarios.  
+API documentation is available [here](https://openweathermap.org/api).  
+OpenWeatherMap weather service is based on the VANE Geospatial Data Science platform for collecting, processing, and distributing information about our planet through easy to use tools and APIs.
+
 # **Setup:**
 
 ## Install Docker  and Docker Compose according to your local OS
